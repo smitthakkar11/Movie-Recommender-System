@@ -206,7 +206,6 @@ The second option is the better engineering answer: you never need all 25 millio
 ## 🙏 Acknowledgements
 
 - **[TMDB](https://www.themoviedb.org/)** — for the dataset and the poster API. This product uses the TMDB API but is not endorsed or certified by TMDB.
-- **[Tutorial walkthrough](https://www.youtube.com/watch?v=1xtrIEwY_zY)** — the video this project follows.
 - The [TMDB 5000 dataset on Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
 ---
