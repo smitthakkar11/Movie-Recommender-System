@@ -16,11 +16,9 @@
 
 ## 🔗 Live Demo
 
-**[▶ watchwise-smit.streamlit.app](https://watchwise-smit.streamlit.app)**
+**[▶ watchwise-mrs.streamlit.app](https://watchwise-mrs.streamlit.app)**
 
 Pick a film, hit **Recommend**, get five neighbours with posters.
-
-> *Not deployed yet? The repo is deploy-ready — see [Deploying](#️-deploying) below. Use the app subdomain `watchwise-smit` and this link goes live as-is.*
 
 ---
 
@@ -180,7 +178,7 @@ Grab the CSVs from the [TMDB 5000 dataset on Kaggle](https://www.kaggle.com/data
 1. Go to [share.streamlit.io](https://share.streamlit.io) and sign in with GitHub.
 2. **Create app** → **Deploy a public app from GitHub**.
 3. Repository `smitthakkar11/Movie-Recommender-System`, branch `main`, main file `app.py`.
-4. Under **Advanced settings → Secrets**, paste:
+4. Main file path is `app.py`. Under **Advanced settings → Secrets**, paste:
    ```toml
    TMDB_API_KEY = "your_key_here"
    ```
