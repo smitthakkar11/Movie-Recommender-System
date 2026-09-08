@@ -1,0 +1,5 @@
+# Only needed to regenerate model/ from the raw CSVs via build_model.py.
+# The app itself does not import these.
+-r requirements.txt
+scikit-learn>=1.3
+nltk>=3.8

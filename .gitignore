@@ -1,0 +1,20 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets — never commit
+.streamlit/secrets.toml
+
+# Raw dataset — only needed to rebuild model/ via build_model.py
+tmdb_5000_movies.csv
+tmdb_5000_credits.csv
+
+# Legacy artifacts, superseded by model/ (similarity.pkl was ~180 MB)
+movies.pkl
+similarity.pkl
+
+# Local editor / tooling
+.claude/
+.idea/
+.DS_Store
