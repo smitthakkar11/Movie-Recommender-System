@@ -18,7 +18,9 @@
 
 **[▶ watchwise-smit.streamlit.app](https://watchwise-smit.streamlit.app)**
 
-Pick a film, hit **Recommend**, get five neighbours with posters. No setup, no API key needed to browse.
+Pick a film, hit **Recommend**, get five neighbours with posters.
+
+> *Not deployed yet? The repo is deploy-ready — see [Deploying](#️-deploying) below. Use the app subdomain `watchwise-smit` and this link goes live as-is.*
 
 ---
 
